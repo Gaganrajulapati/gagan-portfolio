@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://harshaportfolio-ebon.vercel.app/sitemap.xml
+Sitemap: https://gagan-portfolio-lac.vercel.app/sitemap.xml
